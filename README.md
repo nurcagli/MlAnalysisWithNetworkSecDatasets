@@ -1,10 +1,11 @@
-CICIDS 2017 Dataseti kullanılarak
-makine öğrenme yöntemlerinin
-performans analizi:
+CICIDS 2017 Dataseti ile
+Makine Öğrenme Yöntemlerinin
+Performans Analizi
 
 Bu çalışmada kullanılan sınıflandırma
 algoritmaları Random Forest , Decision
 Tree, Naive Bayes ve Lineer Regresyon'dur.
+
 
 Sonuçlar ve Değerlendirme:
 
